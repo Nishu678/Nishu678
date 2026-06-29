@@ -25,43 +25,21 @@
 # 👋 About Me
 
 ```js
+```js
 const nishu = {
   role: "Frontend Developer",
   experience: "1.5+ Years",
   location: "Punjab, India 🇮🇳",
 
   techStack: {
-    frontend: [
-      "React.js",
-      "Next.js",
-      "JavaScript",
-      "TypeScript",
-      "Tailwind CSS",
-      "React Bootstrap"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "REST APIs"
-    ],
-
-    stateManagement: [
-      "Redux",
-      "TanStack Query",
-      "Context API"
-    ]
+    frontend: "React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, React Bootstrap",
+    backend: "Node.js, Express.js, MongoDB, REST APIs",
+    stateManagement: "Redux, TanStack Query, Context API"
   },
 
-  currentlyLearning: [
-    "System Design",
-    "Advanced React Patterns",
-    "Backend Architecture"
-  ],
+  currentlyLearning: "System Design, Advanced React Patterns, Backend Architecture",
 
-  funFact:
-    "I love building scalable dashboards and full-stack applications 🚀"
+  funFact: "I love building scalable dashboards and full-stack applications 🚀"
 };
 ```
 
@@ -134,71 +112,20 @@ Developed an interactive Pokémon Explorer application with debounced search, pa
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 Key Achievements
 
-## 👨‍💼 Employee Tracking System
-
-- Payroll Management
-- Salary Slip Generation
-- Attendance Tracking
-- Employee Dashboard
-
-**Tech:** React.js • Node.js • MongoDB
-
----
-
-## 🛒 E-Commerce Platform
-
-- JWT Authentication
-- Role-Based Access
-- Admin Dashboard
-- Product Management
-
-**Tech:** React.js • Node.js • MongoDB
+| Achievement | Impact |
+|-------------|---------|
+| 🚀 Built Production Applications | Developed HRMS and Payroll Management systems used for employee and salary management. |
+| ⚡ Performance Optimization | Improved application performance using React Query caching, memoization, and reusable components. |
+| 💻 Full Stack Development | Built and deployed end-to-end MERN applications with authentication and role-based access. |
+| 📱 Responsive UI Development | Created pixel-perfect and mobile-friendly interfaces using React and Tailwind CSS. |
+| 🔗 API Integration | Integrated multiple REST APIs and implemented efficient state management. |
+| 📈 Professional Experience | 1.5+ years of experience building scalable frontend and full-stack applications. |
 
 ---
 
-## ⚡ Pokémon Explorer
-
-- Debounced Search
-- Pagination
-- API Caching
-- Responsive Design
-
-**Tech:** React.js • Axios
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nishu678&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishu678&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu678&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📊 Key Achievements
-
-| Impact | Detail |
-|--------|---------|
-| 🚀 Built production applications | Developed HR & Payroll Management System used for employee and salary management |
-| ⚡ Improved application performance | Optimised React applications using memoization, React Query caching, and component reusability |
-| 🎯 Full Stack Development | Built end-to-end MERN applications with authentication and role-based access |
-| 📱 Responsive UI Development | Created mobile-friendly and pixel-perfect interfaces using React and Tailwind CSS |
-| 🔗 API Integration | Integrated multiple REST APIs and implemented efficient state management |
-| 📈 1.5+ Years Experience | Delivered scalable dashboards and enterprise-level frontend applications |
-
----
-
-# 🏆 Achievements
+# 📚 Professional Certifications
 
 🏅 React.js Development – Infosys  
 🏅 Advanced JavaScript (ES6+) – Infosys  
