@@ -163,10 +163,3 @@ const nishu = {
 🏅 Advanced JavaScript (ES6+) – Infosys  
 🏅 UI/UX Design with Figma – Udemy
 
----
-
-# 📫 Connect With Me
-
-📧 YOUR_EMAIL  
-💼 LinkedIn: YOUR_LINKEDIN  
-🌐 Portfolio: YOUR_PORTFOLIO
