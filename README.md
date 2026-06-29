@@ -104,6 +104,45 @@ const nishu = {
 - Implemented responsive UI with React and Tailwind CSS.
 - Worked with React Query and state management solutions.
 
+  ---
+
+## 🚀 Featured Projects
+
+### 🏢 Employee Tracking System — HR & Payroll Platform
+
+`React.js` `Node.js` `MongoDB` `Tailwind CSS` `TanStack Query`
+
+A complete employee management and payroll system featuring employee onboarding, salary management, attendance tracking, pay run generation, increment history, and salary slip downloads.
+
+🔗 **Live:** [View Project](YOUR_LIVE_LINK)  
+💻 **Frontend:** [Repository](YOUR_FRONTEND_REPO)  
+⚙️ **Backend:** [Repository](YOUR_BACKEND_REPO)
+
+---
+
+### 🛒 E-Commerce Platform
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+Built a full-stack e-commerce platform with authentication, role-based access control, admin dashboard, product management, and order tracking.
+
+🔗 **Live:** [View Project](YOUR_LIVE_LINK)  
+💻 **Frontend:** [Repository](YOUR_FRONTEND_REPO)  
+⚙️ **Backend:** [Repository](YOUR_BACKEND_REPO)
+
+---
+
+### ⚡ Pokémon Explorer
+
+`React.js` `Axios` `REST API`
+
+Implemented debounced search, pagination, API caching, and responsive UI using the Pokémon API.
+
+🔗 **Live:** [View Project](YOUR_LIVE_LINK)  
+💻 **GitHub:** [Repository](YOUR_REPO_LINK)
+
+---
+
 ---
 
 # 🚀 Featured Projects
@@ -154,6 +193,19 @@ const nishu = {
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu678&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 📊 Key Achievements
+
+| Impact | Detail |
+|--------|---------|
+| 🚀 Built production applications | Developed HR & Payroll Management System used for employee and salary management |
+| ⚡ Improved application performance | Optimised React applications using memoization, React Query caching, and component reusability |
+| 🎯 Full Stack Development | Built end-to-end MERN applications with authentication and role-based access |
+| 📱 Responsive UI Development | Created mobile-friendly and pixel-perfect interfaces using React and Tailwind CSS |
+| 🔗 API Integration | Integrated multiple REST APIs and implemented efficient state management |
+| 📈 1.5+ Years Experience | Delivered scalable dashboards and enterprise-level frontend applications |
 
 ---
 
