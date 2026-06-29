@@ -108,38 +108,27 @@ const nishu = {
 
 ## 🚀 Featured Projects
 
-### 🏢 Employee Tracking System — HR & Payroll Platform
+### 🏢 [HRMS Dashboard](https://unifygroup.in/hrms/login)
 
-`React.js` `Node.js` `MongoDB` `Tailwind CSS` `TanStack Query`
+`React.js` `Next.js` `Tailwind CSS` `TanStack Query` `REST APIs`
 
-A complete employee management and payroll system featuring employee onboarding, salary management, attendance tracking, pay run generation, increment history, and salary slip downloads.
-
-🔗 **Live:** [View Project](YOUR_LIVE_LINK)  
-💻 **Frontend:** [Repository](YOUR_FRONTEND_REPO)  
-⚙️ **Backend:** [Repository](YOUR_BACKEND_REPO)
+Developed a comprehensive HR and Payroll Management System featuring employee onboarding, payroll processing, attendance tracking, salary slip generation, pay runs, and increment management. Built responsive dashboards and integrated APIs with optimized data fetching and caching.
 
 ---
 
-### 🛒 E-Commerce Platform
+### 🛒 [E-Commerce Platform](https://ecoomerce-website-jtvt.vercel.app/)
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-Built a full-stack e-commerce platform with authentication, role-based access control, admin dashboard, product management, and order tracking.
-
-🔗 **Live:** [View Project](YOUR_LIVE_LINK)  
-💻 **Frontend:** [Repository](YOUR_FRONTEND_REPO)  
-⚙️ **Backend:** [Repository](YOUR_BACKEND_REPO)
+Built a full-stack e-commerce application with user authentication, product management, shopping cart, order management, and admin dashboard functionalities.
 
 ---
 
-### ⚡ Pokémon Explorer
+### ⚡ [Pokémon Explorer](https://pokemon-card-beta.vercel.app/)
 
 `React.js` `Axios` `REST API`
 
-Implemented debounced search, pagination, API caching, and responsive UI using the Pokémon API.
-
-🔗 **Live:** [View Project](YOUR_LIVE_LINK)  
-💻 **GitHub:** [Repository](YOUR_REPO_LINK)
+Developed an interactive Pokémon Explorer application with debounced search, pagination, responsive design, and real-time API integration for browsing Pokémon information.
 
 ---
 
