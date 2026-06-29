@@ -25,7 +25,6 @@
 # 👋 About Me
 
 ```js
-```js
 const nishu = {
   role: "Frontend Developer",
   experience: "1.5+ Years",
@@ -82,7 +81,7 @@ const nishu = {
 - Implemented responsive UI with React and Tailwind CSS.
 - Worked with React Query and state management solutions.
 
-  ---
+---
 
 ## 🚀 Featured Projects
 
@@ -108,7 +107,6 @@ Built a full-stack e-commerce application with user authentication, product mana
 
 Developed an interactive Pokémon Explorer application with debounced search, pagination, responsive design, and real-time API integration for browsing Pokémon information.
 
----
 
 ---
 
